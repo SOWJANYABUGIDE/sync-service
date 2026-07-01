@@ -1,0 +1,19 @@
+# Backend (Maven / Java)
+backend/target/
+*.class
+
+# Frontend (Node / Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+npm-debug.log*
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+.DS_Store
+.github/modernize/
+
+# Logs
+*.log
